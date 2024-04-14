@@ -1,2 +1,2 @@
-# atm_machine
+# atm-machine
 This is a cli-atm-machine
